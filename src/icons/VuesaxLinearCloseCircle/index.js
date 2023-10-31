@@ -1,0 +1,1 @@
+export { VuesaxLinearCloseCircle } from "./VuesaxLinearCloseCircle";
